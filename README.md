@@ -1,9 +1,10 @@
 <img src="/computer-illustration.png" min-width="400 px" max-width="400px" width="400px" align="right">
 <h1 align="center">Olá, Sejam Bem-Vindos.</h1>
     <h2 align="center">Me chamo Rilary e sou Designer UI/UX & Front-end.</h2>
-    <p align="justify">Apaixonada por tecnologia e criatividade, encontrei nesses dois estudos a minha paixão. Através do meu portfólio e Github, quero alcançar projetos cada vez maiores, trazendo sempre as melhores interfaces e experiências para os usuário. </p>   
+    <p align="justify">Apaixonada por tecnologia e criatividade, encontrei nesses dois estudos a minha paixão. Através do meu portfólio e Github, quero alcançar projetos cada vez maiores, trazendo sempre as melhores interfaces e experiências para os usuário.</p>   
     <h3 align="left">UI/UX Designer.</h3>
-        <ul><p>Ux Research | Heurística - Boas práticas em Ui/UX | Figma | Adobe XD </p></ul> 
+    <p><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white"></p>
     <h3 align="left">Desenvolvimento Front-end</h3>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -21,7 +22,7 @@
     <a href="https://www.instagram.com/rileppos_designer/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
-
+   
     
    
     

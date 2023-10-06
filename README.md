@@ -1,5 +1,5 @@
 <img src="/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
-<h1 align="center">Olá, Sejam Bem-Vindos.</h1>
+<h1 align="center">Olá, Seja Bem-Vindo.</h1>
     <h2 align="center">Me chamo Rilary e sou Designer UI/UX & Front-end Developer.</h2>
     <p align="justify">Apaixonada por tecnologia e criatividade, encontrei nesses dois estudos a minha paixão. Através do meu portfólio e Github, quero alcançar projetos cada vez maiores, trazendo sempre as melhores interfaces e experiências para os usuário.</p>   
     <h3 align="left">UI/UX Designer.</h3>

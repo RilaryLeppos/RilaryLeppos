@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá, Seja Bem-Vindo.</h1>
     <h2 align="center">Me chamo Rilary e sou Designer UI/UX & Front-end Developer.</h2>
-    <p align="justify">Apaixonada por tecnologia e criatividade, encontrei nesses dois estudos a minha paixão. Através do meu portfólio e Github, quero alcançar projetos cada vez maiores, trazendo sempre as melhores interfaces e experiências para os usuário.</p><img src="/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">  
+    <p align="justify">Apaixonada por tecnologia e criatividade, encontrei nesses dois estudos a minha paixão. Através do meu portfólio e Github, quero alcançar projetos cada vez maiores, trazendo sempre as melhores interfaces e experiências para os usuário.</p><img src="/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">  
     <h3 align="left">UI/UX Designer.</h3> 
     <p><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white"></p>

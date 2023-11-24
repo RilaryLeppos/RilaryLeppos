@@ -4,7 +4,7 @@
     <p align="justify">Apaixonada por tecnologia e criatividade, encontrei nesses dois estudos a minha paixão. Através do meu portfólio e Github, quero alcançar projetos cada vez maiores, trazendo sempre as melhores interfaces e experiências para os usuário.</p><img src="/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">  
     <h3 align="left">UI/UX Designer.</h3> 
     <p><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white"></p>
+    </p>
     <h3 align="left">Desenvolvimento Front-end</h3>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>

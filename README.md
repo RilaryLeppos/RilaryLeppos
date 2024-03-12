@@ -1,8 +1,8 @@
 
-<h1 align="center">Bem vindos ao meu Github .</h1>
-    <h2 align="center">Me chamo Rilary e sou Designer UI/UX & Front-end Developer</h2>
+<img src="bg.png" min-width="300px" max-width="300px"></img>
+<h1 align="center">Welcome to my Github</h1>    
     <p align="">Ui/Ux Designer & Estudante de Análise e Desenvolvimento de Sistemas. <br>Meu objetivo é unir a Prototipagem de Páginas e Apps (Figma) com o Desenvolvimento Front-end (HTML5, CSS2 e JavaScript). <br>Apaixonada por Tecnologia e Criatividade | Nascida e Criada em São Paulo - SP | Superfã de Cinema.
-    </p><img src="/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">  
+    </p><img src="/computer-illustration.png" min-width="300px" max-width="300px" align="right">  
     <h3 align="left">UI/UX Designer.</h3> 
     <p><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
     </p>

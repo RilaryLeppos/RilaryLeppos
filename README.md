@@ -1,5 +1,5 @@
 
-<img src="bg.png" width="600px" height="400px">
+<img src="bg.png" width="1200px" >
 <h1 align="center">Welcome to my Github</h1>    
     <p></p> 
     <h3 align="left">UI/UX Designer</h3> 

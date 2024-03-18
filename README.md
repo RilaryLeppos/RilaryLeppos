@@ -8,7 +8,7 @@
     <p>This is my <a href='https://rilaryleppos.github.io/portfolio_'>Visual Portfolio</a>, feel free and check it out.</p><br>    
     
 <h3>🗶 GOALS: </h3> 
-    <img align="right" width="450px" src="https://raw.githubusercontent.com/rilaryleppos/RilaryLeppos/main/computer-illustration.png"/>
+    <img align="right" width="400px" src="https://raw.githubusercontent.com/rilaryleppos/RilaryLeppos/main/computer-illustration.png"/>
     <p>🔹 Constant training in studies with the Origamid Platform.</p>
     <p>🔹 Improving my knowledge of using the Figma Tool every day.</p>                                            
     <p>🔹 Intending to study Graphic Design in the future.</p><br>    

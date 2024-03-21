@@ -1,4 +1,4 @@
-<img src='bg.png' width='100%'>
+<img src='background.png' width='100%'>
 <h2 align="center">Hi, I'm Rilary Leppos and Welcome to My Github 🌹</h2><br>
     <img align="left" width="200px" src="https://raw.githubusercontent.com/rilaryleppos/RilaryLeppos/main/fotor-bg-remover.png"/>
     <p align='justify'>I'm a student and passionate about User Interface (UI) and User Experience (UX). </p>
